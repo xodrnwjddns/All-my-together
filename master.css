@@ -1,0 +1,365 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.wrap{
+    position: relative;
+    width: 100%;
+    height: 100%;
+    text-decoration: none;
+    list-style-type: none;
+}
+.box01{
+    width: 100%;
+    height: 1080px;
+    background-image: url(img/bg01.png);
+    display: flex;
+    justify-content: center; 
+    align-items: center;
+    background-position: center;
+    position: relative;
+    background-size: cover;
+}
+.h_01{
+    background-image: url(img/v03.png);
+    position: absolute;
+    width: 100%;
+    height: 100px;
+    margin-top: -980px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.logo_01{
+    height: 90px;
+    text-align:left;
+    margin-top: 15px;
+    margin-left: -1550px;
+    position: absolute;
+
+}
+.h_03{
+    height: 22px;
+    text-align:right;
+    margin-top: 0px;
+    margin-right: -1100px;
+    position: absolute;
+}
+.sbox01{
+    text-align: center;
+    height: 300px;
+    width: 640px;
+    margin-top: 290px;
+    margin-left: -150px;
+}
+.h_04{
+    text-align:right;
+    margin-left: -160px;
+    margin-top: -100px;
+}
+.h_05{
+    margin-right: 80px;
+    margin-top: -300px;
+}
+.h_06{
+    margin-right:-450px;
+    margin-top: 50px;
+}
+.v_01{
+    width: 100%;
+    position: absolute;
+    text-align: justify;
+    display: flex;
+    justify-content: center; 
+    align-items: center;
+    background-position: center;
+}
+.v01{
+    text-align: left;
+    margin-left: 0px;
+}
+.v02{
+    margin-left: 1500px;
+}
+.v03{
+    position: absolute;
+    margin-top: 900px;
+}
+
+.box02{
+    width: 100%;
+    height: 2449px;
+    display: flex;
+    justify-content: center; 
+    align-items: center;
+    background-position: center;
+    position: relative;
+    background-size: cover;
+}
+.box11{
+    width: 1150px;
+    height: 2449px;
+    display: flex;
+    justify-content: center; 
+    align-items: center;
+    background-position: center;
+    position: relative;
+
+}
+.b02{
+    margin-top: -2150px;
+    position: absolute;
+    
+}
+.b03{
+    width: 1150px;
+    margin-top: -1050px;
+    position: absolute;
+    text-align: right;
+}
+.b04{
+    width: 1150px;
+    margin-top: -650px;
+    position: absolute;
+}
+.b05{
+    width: 1150px;
+    margin-top: 750px;
+    position: absolute;
+    text-align: right;
+    margin-right: -60px;
+}
+.b06{
+    width: 1150px;
+    margin-top: 1350px;
+    position: absolute;
+}
+.b07{
+    width: 1150px;
+    margin-top: 2230px;
+    position: absolute;
+    text-align: center;
+}
+
+.box03{
+    width: 100%;
+    height: 603px;
+    background-image: url(img/bg02.png);
+    display: flex;
+    justify-content: center; 
+    align-items: center;
+    background-position: center;
+    position: relative;
+    background-size: cover;
+}
+.box33{
+    width: 1150px;
+    height: 603px;
+}
+.v04{
+    width: 534px;
+    margin-left: -30px;
+    margin-top: 70px;
+}
+.v05{
+    margin-top: -480px;
+    position: absolute;
+    margin-left: 605px;     
+}
+.v06{
+    width: 1150px;
+    position: absolute;
+    text-align: right;
+    margin-top: -135px;
+}
+
+.box04{
+    width: 100%;
+    height: 1240px;
+    display: flex;
+    justify-content: center; 
+    align-items: center;
+    background-position: center;
+    position: relative;
+}
+.box44{
+    width: 1920px;
+    position: absolute;
+    text-align: center;
+    justify-content: space-between;
+    display: flex;
+    margin-top: 270px;
+}
+.q01{
+    margin-top: -600px;
+}
+.q02{
+    margin-top: 100px;
+}
+
+.box05{
+    width: 100%;
+    height: 2100px;
+    display: flex;
+    background-color: #F5F5F5;
+    justify-content: center; 
+    align-items: center;
+    background-position: center;
+    position: relative;
+    background-size: cover;
+}
+.box55{
+    width: 1150px;
+    height: 2100px;
+    position: absolute;
+}
+.w00{
+    position: absolute;
+    margin-top: 135px;
+    margin-left: 550px;
+}
+.w01{
+    position: absolute;
+    text-align: left;
+    margin-top: 300px;
+}
+.w02{
+    width: 1150px;
+    position: absolute;
+    text-align: right;
+    margin-top: 650px;
+}
+.w03{
+    position: absolute;
+    margin-top: 1080px;
+    margin-left: 0px;
+}
+.w04{
+    width: 1150px;
+    position: absolute;
+    margin-top: 1220px;
+    text-align: right;
+}
+
+.box06{
+    width: 100%;
+    height: 4793px;
+    display: flex;
+    background-color: #fff;
+    justify-content: center; 
+    align-items: center;
+    background-position: center;
+    position: relative;
+}
+
+.p_00{
+    width: 1150px;
+    height: 4793px;
+    position: absolute;
+}
+.t_01{
+    width: 1150px;
+    text-align: center;
+    margin-top: 230px;
+}
+.t_02{
+    width: 1150px;
+    text-align: center;
+    margin-top: 35px;
+}
+.t_03{
+    width: 1150px;
+    text-align: center;
+    margin-top: 280px;
+    position: absolute;
+}
+.t_04{
+    width: 1150px;
+    text-align: center;
+    margin-top: 50px;
+    position: absolute;
+}
+.t_05{
+    width: 1150px;
+    text-align: center;
+    margin-top: 100px;
+    position: absolute;
+}
+.t_06{
+    width: 1150px;
+    text-align: center;
+    margin-top: 1150px;
+    position: absolute;
+}
+.t_07{
+    width: 1150px;
+    text-align: center;
+    margin-top: 1230px;
+    position: absolute;
+}
+.t_08{
+    width: 1150px;
+    text-align: center;
+    margin-top: 1455px;
+    position: absolute;
+}
+
+.t_09{
+    width: 1150px;
+    text-align: center;
+    margin-top: 1620px;
+    position: absolute;
+}
+.t_10{
+    width: 1150px;
+    text-align: center;
+    margin-top: 2500px;
+    position: absolute;
+    margin-left: -210px;
+}
+.t_11{
+    width: 1150px;
+    text-align: center;
+    margin-top: 2850px;
+    position: absolute;
+    padding-left: 210px;
+}
+.t_12{
+    width: 1150px;
+    text-align: center;
+    margin-top: 3230px;
+    position: absolute;
+    margin-left: -210px;
+}
+.t_13{
+    width: 1150px;
+    text-align: center;
+    margin-top: 3565px;
+    position: absolute;
+    padding-left: 210px;
+}
+
+
+
+
+
+
+footer{
+    width: 100%;
+    height: 350px;
+    background-color: #777777;
+    position: relative;
+    background-size: cover;
+} 
+.footer_img{ 
+    margin: 0 auto;
+    width: 100%;
+    height: 246px;
+    display: flex; /**이게 무엇인가? -공부하기**/
+    align-items: center;
+    justify-content: center;
+    border: 0px solid red;
+    position: absolute;
+    margin-top: 63px;
+
+}
